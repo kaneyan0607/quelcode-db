@@ -1,6 +1,6 @@
-<mxfile host="" modified="2020-06-16T08:38:14.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.0 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="lD1s9mZe4P-T2vryHEQ2" version="13.1.3">
+<mxfile host="" modified="2020-06-16T08:51:32.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.0 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="cYkkzZlk8o-voDRmjp08" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
-        <mxGraphModel dx="1139" dy="773" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1124" dy="917" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -155,7 +155,7 @@
                     <mxGeometry width="30" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="167" value="投稿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-                    <mxGeometry x="560" y="690" width="220" height="302" as="geometry"/>
+                    <mxGeometry x="560" y="690" width="220" height="272" as="geometry"/>
                 </mxCell>
                 <mxCell id="168" value="投稿id" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;fontSize=12;" vertex="1" parent="167">
                     <mxGeometry y="26" width="220" height="30" as="geometry"/>
@@ -205,14 +205,8 @@
                 <mxCell id="337" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" vertex="1" connectable="0" parent="336">
                     <mxGeometry width="30" height="29.999999999999996" as="geometry"/>
                 </mxCell>
-                <mxCell id="292" value="作成日時" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;" vertex="1" parent="167">
-                    <mxGeometry y="242" width="220" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="293" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" vertex="1" connectable="0" parent="292">
-                    <mxGeometry width="30" height="29.999999999999996" as="geometry"/>
-                </mxCell>
                 <mxCell id="294" value="更新日時" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontSize=12;" vertex="1" parent="167">
-                    <mxGeometry y="272" width="220" height="30" as="geometry"/>
+                    <mxGeometry y="242" width="220" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="295" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" vertex="1" connectable="0" parent="294">
                     <mxGeometry width="30" height="29.999999999999996" as="geometry"/>
