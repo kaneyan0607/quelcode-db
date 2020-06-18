@@ -57,7 +57,7 @@ CREATE TABLE `tasks` (
       `task_message` varchar(1000) NOT NULL,
       `responsible_id` int(11) NOT NULL,
       `deadline` datetime,
-      `is_complete` tinyint(1) DEFAULT 0 NOT NULL,
+      `is_completed` tinyint(1) DEFAULT 0 NOT NULL,
       `chat_room_id` int(11) NOT NULL,
       `is_deleted` tinyint(1) DEFAULT 0 NOT NULL,
       `created_user_id` int(11) NOT NULL,
