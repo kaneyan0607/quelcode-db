@@ -14,6 +14,7 @@ CREATE TABLE `users` (
 
 CREATE TABLE `chat_rooms` (
       `chat_room_id` int(11) NOT NULL AUTO_INCREMENT,
+      `chat_room_name` varchar(100) NOT NULL,
       `overview` varchar(1000),
       `is_suppression` tinyint(1) DEFAULT 0 NOT NULL,
       `is_direct_chat` tinyint(1) DEFAULT 0 NOT NULL,
